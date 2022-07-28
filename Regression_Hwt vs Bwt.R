@@ -1,4 +1,4 @@
-#regression between HWT vs. BWT
+# Prectiction for Cats Body weight vs. Heart weight value
 
 library(MASS)
 
