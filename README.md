@@ -1,6 +1,6 @@
 # Regression-Analysis
 
-For Project : Case study of population with different years
+Project 1: Case study of population with different years
 
 1. Check correlation
 2. Missing value detection
@@ -12,7 +12,7 @@ For Project : Case study of population with different years
 
 -----------------------------------
 
-For Project : Cats Body weight vs. Heart weight
+Project 2: Cats Body weight vs. Heart weight
 
 Prectict the value & build the model for Body weight vs. Heart weight
 
