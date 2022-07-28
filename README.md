@@ -1,6 +1,6 @@
 # Regression-Analysis
 
-For Project : Case study of population with years
+For Project : Case study of population with different years
 
 1. Check correlation
 2. Missing value detection
