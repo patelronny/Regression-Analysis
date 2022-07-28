@@ -55,6 +55,8 @@ predicted_popu
 plot(pop_model,main = "Regressionlinearvsyear",xlab = "newyear,newyear",ylab = "newpopu,newpopu")
 abline(pop_model,col="green")
   
+------------------------------------
+
 setwd("G:/R Tools/R 2nd part/assignments/Case Study Regression")
 getwd()
 
@@ -72,8 +74,6 @@ plot(density(rail_passengers2$cars))
 boxplot(rail_passengers2$passengers,rail_passengers2$cars)
 
 boxplot.stats(rail_passengers2$passengers)$out
-
-median(cats$Hwt)
 
 cars_model <- lm(cars~passengers, data = rail_passengers2)
 cars_model
