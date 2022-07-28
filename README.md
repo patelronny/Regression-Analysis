@@ -10,6 +10,11 @@ For Project : Case study of population with years
 6. Model validation and check the homoscedasticity
 7. Predict new dependent variable value using independent variable value
 
+-----------------------------------
+
+For Project : Cats Body weight vs. Heart weight
+
+Prectict the value the build the model for Body weight vs. Heart weight
 
 
 
