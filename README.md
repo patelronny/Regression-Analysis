@@ -14,7 +14,7 @@ For Project : Case study of population with years
 
 For Project : Cats Body weight vs. Heart weight
 
-Prectict the value the build the model for Body weight vs. Heart weight
+Prectict the value & build the model for Body weight vs. Heart weight
 
 
 
